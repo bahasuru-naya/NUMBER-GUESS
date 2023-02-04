@@ -1,2 +1,2 @@
-# NUMER-GUESS
+# NUMBER-GUESS
 ## number guessing game using c++
